@@ -2479,6 +2479,19 @@
       }
     },
     {
+      "displayName": "Cap Cotentin",
+      "id": "capcotentin-add5eb",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "network": "Cap Cotentin",
+        "network:wikidata": "Q110940036",
+        "network:wikipedia": "fr:Cap Cotentin",
+        "operator": "Communauté d'agglomération du Cotentin",
+        "route": "bus",
+        "website": "https://www.capcotentin.fr/"
+      }
+    },
+    {
       "displayName": "Chapas",
       "id": "chapas-2a9b7b",
       "locationSet": {"include": ["mz"]},
@@ -17521,18 +17534,6 @@
       "tags": {
         "network": "Zeeland",
         "network:wikidata": "Q108718030",
-        "route": "bus"
-      }
-    },
-    {
-      "displayName": "Zéphir Bus",
-      "id": "zephirbus-add5eb",
-      "locationSet": {"include": ["fx"]},
-      "tags": {
-        "network": "Zéphir Bus",
-        "network:wikidata": "Q3576504",
-        "network:wikipedia": "fr:Transports en commun de Cherbourg-en-Cotentin",
-        "operator": "Keolis Cherbourg",
         "route": "bus"
       }
     },
